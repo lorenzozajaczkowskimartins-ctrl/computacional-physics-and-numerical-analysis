@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+title: "Computational Physics and Numerical Analysis Toolkit"
+message: "If you use this repository in academic work, please cite it."
+type: software
+
+authors:
+  - family-names: Zajaczkowski Martins
+    given-names: Lorenzo
+
+version: 0.1.0
+date-released: 2026-02-11
+
+repository-code: "https://github.com/lorenzozajaczkowskimartins-ctrl/computacional-physics-and-numerical-analysis"
+
+license: MIT
+
+keywords:
+  - computational physics
+  - numerical analysis
+  - linear algebra
+  - vector calculus
+  - geometric algebra
+  - mathematical methods
+  - undergraduate mathematics
+  - physics education
